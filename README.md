@@ -4,8 +4,9 @@ This script retrieves cryptocurrency data from the Coinmarketcap API and populat
 
 I am planning to improve the script by: 
 1. Including more relevant data into the table
-2. Sharing a template of the GoogleSheet I use
-3. Any feedback or suggestion I migth get
+2. Get the quotes in EUR or any other currency
+3. Sharing a template of the GoogleSheet I use
+4. Any feedback or suggestion I migth get
 
 ## Prerequisites
 - Obtain an API key from the Coinmarketcap API. Visit the [Coinmarketcap API](https://coinmarketcap.com/api/) website for more information.
